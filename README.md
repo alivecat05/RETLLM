@@ -4,7 +4,7 @@
 
 - **2025.09.25**: Initial source code released.
 ---
-## Framework
+## 🧱 Framework
 ![RETLLM Architecture](framework_.png)
 ---
 

@@ -9,8 +9,7 @@
 ---
 
 ## 📄 Paper  
-Coming soon! 
-
+RETLLM has been accepted by ICASSP2025 !!!!
 ---
 
 ## 🗂️ Dataset Preparation

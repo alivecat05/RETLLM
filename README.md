@@ -3,6 +3,7 @@
 > 🚀 Official repository for **RETLLM** — a framework for zero-shot multimodal retrieval without additional training or domain-specific data.
 
 - **2025.09.25**: Initial source code released.
+- **2026.01.20**: Ours paper has been accepted by ICASSP2025!!!
 ---
 ## 🧱 Framework
 ![RETLLM Architecture](framework_.png)

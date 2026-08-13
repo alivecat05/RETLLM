@@ -1,6 +1,6 @@
 # RETLLM: Training- and Data-Free Multimodal Large Language Models for Information Retrieval
 
-> 🚀 Official repository for **RETLLM** — a framework for zero-shot multimodal retrieval without additional training or domain-specific data.
+> [ICASSP2026]🚀 Official repository for **RETLLM** — a framework for zero-shot multimodal retrieval without additional training or domain-specific data.
 
 - **2025.09.25**: Initial source code released.
 - **2026.01.20**: Our paper has been accepted by ICASSP2026!!!
